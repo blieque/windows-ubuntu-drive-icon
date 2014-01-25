@@ -1,0 +1,25 @@
+id ICON "assets/ubuntu-drive.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "Blieque Mariguan"
+      VALUE "FileDescription", "Windows Ubuntu Drive Icon Setup"
+      VALUE "FileVersion", "0.1"
+      VALUE "InternalName", "setup"
+      VALUE "LegalCopyright", "Blieque Mariguan"
+      VALUE "OriginalFilename", "setup.exe"
+      VALUE "ProductName", "Setup"
+      VALUE "ProductVersion", "0.1"
+    END
+  END
+
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END

@@ -1,5 +1,5 @@
 @echo off
-echo Windows Ubuntu Drive Icon Setup, by Blieque Mariguan (@blieque)
+echo Windows Ubuntu Drive Icon Setup, by Blieque Mariguan <himself AT blieque.co.uk>
 set /p iu=Install or uninstall? [I/U]: 
 set /p drive=Ubuntu drive letter: 
 IF "%iu%"=="I" (

@@ -1,4 +1,4 @@
-Download [here](http://file.blieque.co.uk/ubuntu-drive/)
+Download [here](http://file.blieque.co.uk/git/windows-ubuntu-drive-icon/)
 
 # Ubuntu Drive Icon for Windows
 
